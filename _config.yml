@@ -105,7 +105,7 @@ deploy:
   type: git
   repo: https://github.com/ZianTT/blog
   branch: main
-  message: "Site updated: {{ now('YYYY-MM-DD HH:mm:ss') }})"
+  message: "Site updated: {{ now('YYYY-MM-DD HH:mm:ss') }}"
 
 markdown:
   render:
