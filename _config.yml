@@ -104,7 +104,7 @@ theme: pure
 deploy:
   type: git
   repo: https://github.com/ZianTT/blog
-  branch: master
+  branch: main
   message: "Site updated: {{ now('YYYY-MM-DD HH:mm:ss') }})"
 
 markdown:
