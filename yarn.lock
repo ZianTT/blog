@@ -492,13 +492,14 @@ hexo-renderer-less@^4.0.0:
     less "^4.1.2"
     micromatch "^4.0.4"
 
-hexo-renderer-markdown-it@^6.0.1:
-  version "6.0.1"
-  resolved "https://registry.npmjs.org/hexo-renderer-markdown-it/-/hexo-renderer-markdown-it-6.0.1.tgz"
+hexo-renderer-markdown-it@^6.1.0:
+  version "6.1.0"
+  resolved "https://registry.yarnpkg.com/hexo-renderer-markdown-it/-/hexo-renderer-markdown-it-6.1.0.tgz#bdd8a1b416de8ad15dc93709344c4ed8cdfc664f"
   dependencies:
     hexo-util "^2.1.0"
     markdown-it "^12.0.0"
     markdown-it-abbr "^1.0.4"
+    markdown-it-attrs "^4.1.3"
     markdown-it-cjk-breaks "^1.1.2"
     markdown-it-container "^3.0.0"
     markdown-it-deflist "^2.0.3"
@@ -736,6 +737,10 @@ make-dir@^2.1.0:
 markdown-it-abbr@^1.0.4:
   version "1.0.4"
   resolved "https://registry.npmjs.org/markdown-it-abbr/-/markdown-it-abbr-1.0.4.tgz"
+
+markdown-it-attrs@^4.1.3:
+  version "4.1.4"
+  resolved "https://registry.yarnpkg.com/markdown-it-attrs/-/markdown-it-attrs-4.1.4.tgz#25c86055affbc1cb9c4605a86aa26495efa16ec7"
 
 markdown-it-cjk-breaks@^1.1.2:
   version "1.1.3"
